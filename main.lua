@@ -1,8 +1,8 @@
 print("Distance Tracker with Elevation GUI loaded")
 
 -- USER VARIABLES - ADJUST THESE
-local DROP = 4
-local VELOCITY = 1000
+local DROP = 3.65
+local VELOCITY = 1110
 
 local players = game:GetService("Players")
 local localplayer = players.LocalPlayer
