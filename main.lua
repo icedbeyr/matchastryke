@@ -1,5 +1,5 @@
-local DROP = 3.76
-local VELOCITY = 1108
+local DROP = inputdrop
+local VELOCITY = inputvelo
 
 print("Distance Tracker with Elevation GUI loaded")
 print("Drop: " .. DROP .. " | Velocity: " .. VELOCITY)
