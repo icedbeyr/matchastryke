@@ -1,5 +1,5 @@
-_G.DROP = 3.76
-_G.VELOCITY = 1108
+DROP = _G.CDrop or 3.76
+VELOCITY = _G.Velo or 1108
 
 print("Distance Tracker with Elevation GUI loaded")
 print("Drop: " .. DROP .. " | Velocity: " .. VELOCITY)
